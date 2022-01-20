@@ -34,7 +34,8 @@
 
 ## Projects: 
 
-<p align="left"> coming soon!</p>
+* 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
+* more coming soon!
 
 ## Interests/Hobbies: 
 
