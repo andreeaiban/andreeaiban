@@ -12,19 +12,18 @@
 		current_edu = "CUNY Queens College"
 		hobbies = [
 				'Gaming',
-				'Music',
-				'Being up all Night chasing that ONE BUG...'
-			]
+				'Travel/Explore',
+				'Programming...' 
+			   ]
 	
-	def getCity():
-		return NYC()
-  
- def getPastCity():
-  return Romania();
+def getCity():
+    return NYC()
+def getPastCity():
+    return Romania();
 	
-	def goals():
-		create_More_CS_Projects()
-		get_Better_at_LeetCode()		
+def goals():
+    create_More_CS_Projects()
+    get_Better_at_LeetCode()		
  ```
 
 
