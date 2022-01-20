@@ -5,11 +5,8 @@
 <br></br>
 
 <img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif" width="360px" align="left" />  
-
-
-### About Me:
  ```python
- class WhoAmI:
+ class AboutMe:
  	user = 'Andreea Ibanescu'
 		current_edu = "CUNY Queens College"
 		hobbies = [
