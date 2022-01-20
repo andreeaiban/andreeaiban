@@ -36,9 +36,9 @@
 
 <p align="left"> coming soon!</p>
 
-## Other Interests & Hobbies: 
+## Interests/Hobbies: 
 
-<p align="left"> My favorite video games:  </p>
+<p align="left"> My favorite video games</p>
 
 
 ## Connect w/ me: 
