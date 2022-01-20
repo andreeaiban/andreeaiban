@@ -8,8 +8,6 @@
 
 
 ### About Me:
-<p align="left"> This is a paragraph.</p>
-
  ```python
  class WhoAmI:
  	user = 'Andreea Ibanescu'
