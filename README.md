@@ -12,16 +12,12 @@
 		current_edu = "CUNY Queens College"
 		end_time= time.time;
 		print(end_time + "= 2023")
-		hobbies = [
-				'Gaming',
-				'Travel/Explore',
-				'Programming...' 
-			   ]
+		hobbies = ['Gaming','Travel/Explore','Programming...']
 	
 def getCity():
-    return NYC()
+    return "NYC"
 def getPastCity():
-    return Romania();
+    return "Romania"
 	
 def goals():
     create_More_CS_Projects()
