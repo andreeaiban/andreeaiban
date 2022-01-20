@@ -4,7 +4,8 @@
 
 <br></br>
 
-<img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif" width="360px" align="left" />  
+<img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif" width="360px" align="left" /> 
+
  ```python
  class AboutMe:
  	user = 'Andreea Ibanescu'
@@ -23,8 +24,7 @@
 	
 	def goals():
 		create_More_CS_Projects()
-		get_Better_at_LeetCode()
-		
+		get_Better_at_LeetCode()		
  ```
 
 
