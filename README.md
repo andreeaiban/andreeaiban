@@ -29,8 +29,8 @@
 
 ## Projects: 
 
-* 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
-* more coming soon!
+##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
+##### more coming soon!
 
 ## Programming Languages: 
 
