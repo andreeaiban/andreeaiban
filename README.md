@@ -7,8 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif" width="360px" align="left" />  
 
-<br></br>
- &nbsp;&nbsp;&nbsp;
 <p align="right">
 My name is Andreea Ibanescu
 </p> 
