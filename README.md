@@ -10,15 +10,27 @@
 ### About Me:
 <p align="left"> This is a paragraph.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```python
+ class WhoAmI:
+ 	user = 'Andreea Ibanescu'
+		current_edu = "CUNY Queens College"
+		hobbies = [
+				'Gaming',
+				'Music',
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return NYC()
+  
+ def getPastCity():
+  return Romania();
+	
+	def goals():
+		create_More_CS_Projects()
+		get_Better_at_LeetCode()
+		
+ ```
 
 
 
