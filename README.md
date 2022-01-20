@@ -24,10 +24,6 @@
 
 <br></br>
  
- ![ezgif-5-08b1d470d8](https://user-images.githubusercontent.com/71531176/150264000-df22c496-2f12-4f9b-b2e5-fb691ec0b50f.gif)
-
- 
-
 <br></br>
  &nbsp;&nbsp;&nbsp;
 
@@ -42,5 +38,11 @@
 <a target="_blank" href="mailto:andreea.ibanesc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <p align="left">  ( Linkedin: Andreea Ibanescu ) </p>
 <p align="left">  ( Gmail: andreea.ibanesc@gmail.com ) </p>
+
+
+## 
+<p align="center"> That's all folks!</p>
+
+<img src="https://user-images.githubusercontent.com/71531176/150264000-df22c496-2f12-4f9b-b2e5-fb691ec0b50f.gif" width="360px" align="center" />  
 
 
