@@ -1,4 +1,6 @@
-###   ʕ •`ᴥ•´ʔ  Welcome to my Coding Portfolio ╲ʕ·ᴥ·　╲ʔ
+###    /\___ /\
+###    ꒰˶• ༝ -˶꒱
+###     /づ ~🍨       Welcome to my Coding Portfolio ╲ʕ·ᴥ·　╲ʔ
 
 <!--
 **andreeaiban/andreeaiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
