@@ -39,7 +39,7 @@
  
 <p align="left"> ( C++, Java, Python )  </p>
 
-## Organizations 
+## Organizations: 
 <img src="https://user-images.githubusercontent.com/71531176/150269157-9061f048-ccc3-4fe1-afdb-106db65acf39.jpeg" width="2551px" align="left" />  
 
 <br></br>
