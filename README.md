@@ -2,12 +2,9 @@
 ###   ଘ(੭´꒳`)°* ੈ‧₊˚ °* * ੈ‧₊˚  Welcome to my Coding Portfolio  * ੈ‧₊˚°* ੈ°* ੈ‧₊˚°*  ╲ʕ·ᴥ·　╲ʔ
 ###          
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif"> </div>
 
-![7IjS](https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif)
-
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
