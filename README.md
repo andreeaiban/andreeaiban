@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif" width="360px" align="left" />  
 
-<p align="right" My name is Andreea Ibanescu </p> 
+<p align="left"> This is a paragraph.</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
