@@ -50,7 +50,7 @@
 ## Interests/Hobbies: 
 <p align="left"> My favorite video games</p>
 <img src="https://user-images.githubusercontent.com/71531176/150270339-33f8f12f-4b09-4a2d-b288-cf4c32b35c8e.png" width="1440px" align="center" />
-eft" />  
+ 
 
 
 ## Connect w/ me: 
