@@ -32,6 +32,14 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p
  <p align="left">  ( C++, Java, Python ) </p>
 
+## Projects: 
+
+<p align="left"> coming soon!</p>
+
+## Other Interests & Hobbies: 
+
+<p align="left"> My favorite video games:  </p>
+
 
 ## Connect w/ me: 
 <a target="_blank" href="https://www.linkedin.com/in/andreeaibanescu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
