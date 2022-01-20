@@ -32,7 +32,7 @@ def goals():
 <br></br>
  &nbsp;&nbsp;&nbsp;
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeaiban&show_icons=true&theme=dark&title_color=8f246d&text_color=422546&bg_color=5c1950&hide_border=true&locale=en&layout=compact" alt="andreeaiban" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeaiban&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ecd1f0&bg_color=4b444a&hide_border=true&locale=en&layout=compact" alt="andreeaiban" /></p>
 
 ## Projects: 
 
