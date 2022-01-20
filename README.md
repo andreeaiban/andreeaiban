@@ -10,6 +10,8 @@
  class AboutMe:
  	user = 'Andreea Ibanescu'
 		current_edu = "CUNY Queens College"
+		end_time= time.time;
+		print(end_time + "= 2023")
 		hobbies = [
 				'Gaming',
 				'Travel/Explore',
