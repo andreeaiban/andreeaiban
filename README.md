@@ -42,9 +42,6 @@
 
 ## 
 <p align="center"> That's all folks!</p>
-<br></br>
- &nbsp;&nbsp;&nbsp;
-
-<img src="https://user-images.githubusercontent.com/71531176/150264000-df22c496-2f12-4f9b-b2e5-fb691ec0b50f.gif" width="350px" align="center"/>  
+<img src="https://user-images.githubusercontent.com/71531176/150264000-df22c496-2f12-4f9b-b2e5-fb691ec0b50f.gif" width="350px" align="middle"/>  
 
 
