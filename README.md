@@ -48,11 +48,8 @@
 
 
 ## Interests/Hobbies: 
-
-<img width="720" alt="Screen Shot 2022-01-19 at 10 50 00 PM" src="https://user-images.githubusercontent.com/71531176/150270040-f9fbed94-8691-43a5-820f-a603e84fa028.png">
-
 <p align="left"> My favorite video games</p>
-<img src="https://user-images.githubusercontent.com/71531176/150270040-f9fbed94-8691-43a5-820f-a603e84fa028.png" width="1440px" align="center" />  
+<img src="https://user-images.githubusercontent.com/71531176/150270040-f9fbed94-8691-43a5-820f-a603e84fa028.png" width="1440px" align="left" />  
 
 
 ## Connect w/ me: 
