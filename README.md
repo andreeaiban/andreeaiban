@@ -36,7 +36,7 @@ def goals():
 ## Projects: 
 
 ##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
-
+##### 🖥️ [Password Hack]
 ##### 🚧 MORE COMING SOON!
 
 ## Programming Languages: 
