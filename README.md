@@ -37,6 +37,7 @@ def goals():
 
 ##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
 ##### 🖥️ [Password Hack]
+##### 🏦[Bank Simulation](https://github.com/andreeaiban/Data-Structures/tree/master/Bank%20Project)
 ##### 🚧 MORE COMING SOON!
 
 ## Programming Languages: 
