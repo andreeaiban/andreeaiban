@@ -12,7 +12,7 @@
 		current_edu("CUNY Queens College","Computer Science")
 		end_time= time.time;
 		print(end_time + "= 2023")
-		hobbies = ['Gaming','Travel/Explore','Programming...']
+		
 	
 def getCity():
     return "NYC"
@@ -38,7 +38,6 @@ def goals():
 ##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
 ##### 🖥️ [Password Hack](https://github.com/andreeaiban/PasswordHackProject)
 ##### 🏦 [Bank Simulation](https://github.com/andreeaiban/Data-Structures/tree/master/Bank%20Project)
-##### 🙀 [Kitten Trojan] 
 ##### 🚧 MORE COMING SOON!
 
 ## Programming Languages: 
@@ -57,10 +56,6 @@ def goals():
 
 
 
-## Interests/Hobbies: 
-<p align="left"> My favorite video games</p>
-<img src="https://user-images.githubusercontent.com/71531176/150270339-33f8f12f-4b09-4a2d-b288-cf4c32b35c8e.png" width="1440px" align="center" />
- 
 
 
 ## Connect w/ me: 
