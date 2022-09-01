@@ -21,8 +21,7 @@ def getPastCity():
 	
 def goals():
     create_More_CS_Projects()
-    get_Better_at_LeetCode()
-    become_a_Software_Engineer() # w/ a focus in cybersecurity!
+    become_a_Software_Engineer() 
  ```
 
 
