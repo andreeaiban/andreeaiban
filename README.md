@@ -9,19 +9,11 @@
  ```python
  class AboutMe:
  	user = 'Andreea Ibanescu'
-		current_edu("CUNY Queens College","Computer Science")
+		current_edu("CUNY","Computer Science")
 		end_time= time.time;
 		print(end_time + "= 2023")
 		
-	
-def getCity():
-    return "NYC"
-def getPastCity():
-    return "Romania"
-	
-def goals():
-    create_More_CS_Projects()
-    become_a_Software_Engineer() 
+
  ```
 
 
