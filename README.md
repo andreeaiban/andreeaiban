@@ -32,6 +32,11 @@
 ##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
 ##### 🖥️ [Password Hack](https://github.com/andreeaiban/PasswordHackProject)
 ##### 🏦 [Bank Simulation](https://github.com/andreeaiban/Data-Structures/tree/master/Bank%20Project)
+##### 💸 [Index-Replication Optimization](https://github.com/andreeaiban/Index-Replication)
+##### 🍅 [GroceryGO](https://github.com/andreeaiban/GroceryGO)
+##### 👩‍💻 [GirlWhoCode-Leadership-Project](https://github.com/andreeaiban/GirlsWhoCodeLeadershipProject)
+##### 🎞️ [Movie-Streaming-Website](https://github.com/andreeaiban/Movie-Streaming-Website)
+
 ##### 🚧 MORE COMING SOON!
 
 ## Programming Languages: 
