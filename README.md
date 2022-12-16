@@ -27,7 +27,7 @@
  &nbsp;&nbsp;&nbsp;
  
 
-## Projects: 
+## Computer Science Projects: 
 
 ##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
 ##### 🖥️ [Password Hack](https://github.com/andreeaiban/PasswordHackProject)
