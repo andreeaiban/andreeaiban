@@ -47,16 +47,17 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/71531176/150269157-9061f048-ccc3-4fe1-afdb-106db65acf39.jpeg" width="2551px" align="left" />  
+
 
 <br>
-### Organizations: 
+
 <br></br>
  &nbsp;&nbsp;&nbsp;
 
 
 
-
+## Organizations: 
+<img src="https://user-images.githubusercontent.com/71531176/150269157-9061f048-ccc3-4fe1-afdb-106db65acf39.jpeg" width="2551px" align="left" />  
 
 ## Connect w/ me: 
 <a target="_blank" href="https://www.linkedin.com/in/andreeaibanescu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
