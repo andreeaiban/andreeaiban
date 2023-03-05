@@ -35,6 +35,7 @@
 ##### 💸 [Index-Replication Optimization](https://github.com/andreeaiban/Index-Replication)
 ##### 🍅 [GroceryGO](https://github.com/andreeaiban/GroceryGO)
 ##### 👩‍💻 [GirlWhoCode-Leadership-Project](https://github.com/andreeaiban/GirlsWhoCodeLeadershipProject)
+##### 📊 [Intro to Datamining](https://github.com/andreeaiban/DataminingPres)
 ##### 🎞️ [Movie-Streaming-Website](https://github.com/andreeaiban/Movie-Streaming-Website)
 ##### 🎮 [Stranger Things Game @2017](https://github.com/andreeaiban/FirstJavaGame)
 
