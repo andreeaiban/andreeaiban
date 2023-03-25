@@ -9,7 +9,7 @@
  ```python
  class AboutMe:
  	user = 'Andreea Ibanescu'
-		current_edu("CUNY","Computer Science")
+		current_edu("Computer Science")
 		end_time= time.time;
 		print(end_time + "= 2023")
 		
