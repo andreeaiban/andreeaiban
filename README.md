@@ -1,6 +1,4 @@
-###   
-#   ଘ(੭´꒳`)°* ੈ‧₊˚ °  Welcome to my Coding Portfolio  ‧₊˚°*  ╲ʕ·ᴥ·　╲ʔ
-###          
+
 
 <br></br>
 
