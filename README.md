@@ -17,6 +17,8 @@
  &nbsp;&nbsp;&nbsp;
  
 <br></br>
+<br></br>
+<br></br>
 ## Computer Science Projects: 
 
 ##### 📈 [Schrödinger's Portfolio](https://devpost.com/software/schrodinger-s-portfolio)
@@ -48,8 +50,7 @@
 
 
 
-## Organizations: 
-<img src="https://user-images.githubusercontent.com/71531176/150269157-9061f048-ccc3-4fe1-afdb-106db65acf39.jpeg" width="2551px" align="left" />  
+
 
 ## Connect w/ me: 
 <a target="_blank" href="https://www.linkedin.com/in/andreeaibanescu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -58,7 +59,7 @@
 
 
 ## 
-<p align="center"> .⋆｡⋆ ༶ ⋆˙⊹ع˖⁺ ☁⋆ ୭ ⋆❀.⋆That's all folks! ⋆˙⊹ع˖⁺ ☁⋆ ୭ .⋆｡⋆༶⋆˙⊹༺</p>
+<p align="center"> .⋆｡⋆ ༶ ⋆˙⊹ع˖⁺ ☁⋆ ୭ ⋆❀.⋆ ⋆˙⊹ع˖⁺ ☁⋆ ୭ .⋆｡⋆༶⋆˙⊹༺</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71531176/150264000-df22c496-2f12-4f9b-b2e5-fb691ec0b50f.gif" width="350px" align="center"/>  
 
