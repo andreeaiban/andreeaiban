@@ -1,5 +1,5 @@
 
-
+## My Coding Portfolio: 
 <br></br>
 
 <img src="https://user-images.githubusercontent.com/71531176/150245362-089fe204-0b50-4c7d-8d00-127e7dbeed47.gif" width="360px" align="left" /> 
@@ -32,6 +32,8 @@
 ##### 🎮 [Stranger Things Game @2017](https://github.com/andreeaiban/FirstJavaGame)
 
 ##### 🚧 MORE COMING SOON!
+
+<br></br> 
 
 ## Programming Languages: 
 
