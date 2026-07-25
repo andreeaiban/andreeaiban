@@ -2,16 +2,26 @@
 
 <img src="banner.png" width="100%">
 
+# Andreea Ibanescu
 
+### Cybersecurity Professional
 
-◈ Cybersecurity Professional ◈
+⌁
 
-⋆
+Hi, I'm Andreea.
 
-Technical Portfolio
+This is my technical project portfolio.
 
-A collection of projects documenting my journey through cybersecurity, automation, research, and hands-on learning.
+Here you'll find my projects, experiments, and ongoing work as I continue exploring cybersecurity.
 
-⋆
+⌁
+
+</div>
+
+---
+
+<div align="center">
+
+◈ &nbsp;&nbsp;Projects&nbsp;&nbsp; ◈ &nbsp;&nbsp; Labs &nbsp;&nbsp;◈ &nbsp;&nbsp; Research &nbsp;&nbsp;◈ &nbsp;&nbsp; Learning &nbsp;&nbsp;◈
 
 </div>
