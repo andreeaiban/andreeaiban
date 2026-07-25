@@ -23,3 +23,6 @@ Here you'll find my projects, experiments, and ongoing work as I continue explor
 ◈ &nbsp;&nbsp;Projects&nbsp;&nbsp; ◈ &nbsp;&nbsp; Labs &nbsp;&nbsp;◈ &nbsp;&nbsp; Research &nbsp;&nbsp;◈ &nbsp;&nbsp; Learning &nbsp;&nbsp;◈
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreeaiban/andreeaiban/main/7IjS.gif" width="500" alt="Animated footer">
+</div>
