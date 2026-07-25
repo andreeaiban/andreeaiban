@@ -27,7 +27,7 @@ Here you'll find my security-focused work alongside the software engineering pro
 
 <div align="center">
 
-◈ &nbsp;&nbsp;<a href="#security-engineering">Security Engineering</a>&nbsp;&nbsp; ◈ &nbsp;&nbsp; <a href="#software-engineering">Software Engineering</a> &nbsp;&nbsp;◈
+◈ &nbsp;&nbsp;<a href="#security-engineering">Security Engineering</a>&nbsp;&nbsp; ◈ &nbsp;&nbsp; <a href="#cyber-skills">Cyber Skills</a> &nbsp;&nbsp;◈&nbsp;&nbsp; <a href="#software-engineering">Software Engineering</a> &nbsp;&nbsp;◈
 
 </div>
 
@@ -35,19 +35,33 @@ Here you'll find my security-focused work alongside the software engineering pro
 
 <h2 id="security-engineering" align="center">Security Engineering</h2>
 
-**Hands-on training:** 100+ rooms and boxes completed across TryHackMe and HackTheBox, covering:
-- Penetration testing methodology — reconnaissance, scanning, exploitation, privilege escalation, and reporting
-- Web application security — OWASP-class vulnerabilities (XSS, SQLi, CSRF, auth bypass) and hands-on application assessments
-- SOC / blue team operations — log analysis, SIEM tooling, incident detection and triage
-- Network traffic analysis — Wireshark training for packet capture and protocol-level inspection
-
-**Certification:** TryHackMe Certified SOC Level 1 Analyst (SAL1)
-
----
-
 - 🔓 **[Password Hack](https://github.com/andreeaiban/PasswordHackProject)** — ethical penetration testing project analyzing password vulnerabilities through simulated attacks
 - ⚙️ **[Operating Systems](https://github.com/andreeaiban/Operating_Systems)** — a deliberate race-condition demo: the same shared bank account implemented once unsynchronized (broken under concurrent load) and once fixed with `ReentrantLock`/`Condition`, plus a thread-safe producer-consumer queue
 - 🗄️ **[Database Systems](https://github.com/andreeaiban/database)** — role-based access control built from scratch (`CREATE ROLE` / `GRANT` / `REVOKE`), transaction isolation testing, and a backup-before-destroy recovery pattern
+
+---
+
+<h2 id="cyber-skills" align="center">Cyber Skills</h2>
+
+```bash
+┌──(andreea㉿portfolio)-[~/cyber-skills]
+└─$ whoami --verbose
+
+[+] training_hours ..... 100+ rooms & boxes cleared (TryHackMe / HackTheBox)
+
+└─$ cat skillset.log
+
+[✓] pentest_methodology ... recon → scanning → exploitation → privesc → reporting
+[✓] web_app_security ...... XSS, SQLi, CSRF, auth bypass, OWASP-class assessments
+[✓] soc_blue_team .......... log analysis, SIEM tooling, incident detection & triage
+[✓] traffic_analysis ...... Wireshark, packet capture, protocol-level inspection
+
+└─$ cat certifications.log
+
+[✓] TryHackMe — Certified SOC Level 1 Analyst (SAL1)
+
+└─$ _
+```
 
 ---
 
