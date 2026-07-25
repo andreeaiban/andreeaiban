@@ -2,7 +2,7 @@
 
 <img src="banner.png" width="100%">
 
-# Andreea Ibanescu
+#
 
 ### Cybersecurity Professional
 
