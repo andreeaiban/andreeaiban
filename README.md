@@ -4,13 +4,11 @@
 
 #
 
-### Cybersecurity Professional
+### 
 
 ⌁
 
-Hi, I'm Andreea.
-
-This is my technical project portfolio.
+Hi, I'm Cybersecurity Professional and this is my technical project portfolio.
 
 Here you'll find my projects, experiments, and ongoing work as I continue exploring cybersecurity.
 
