@@ -6,13 +6,19 @@
 
 ### 
 
-⌁
+⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆
 
-Hi, I'm Andreea, a Cybersecurity Professional — this is my technical project portfolio.
+Hi, I'm Andreea, a Cybersecurity Professional — this is my technical project portfolio ˃̵ᴗ˂̵
 
 Here you'll find my security-focused work alongside the software engineering projects behind it, since building secure systems takes both.
 
-⌁
+<pre>
+∧,,,∧
+(  ̳• · • ̳)
+/    づ♡
+</pre>
+
+⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆
 
 </div>
 
@@ -27,6 +33,13 @@ Here you'll find my security-focused work alongside the software engineering pro
 ---
 
 <h2 id="security-engineering" align="center">Security Engineering</h2>
+
+**Hands-on training:** 100+ rooms and boxes completed across TryHackMe and HackTheBox, covering:
+- Penetration testing methodology — reconnaissance, scanning, exploitation, privilege escalation, and reporting
+- Web application security — OWASP-class vulnerabilities (XSS, SQLi, CSRF, auth bypass) and hands-on application assessments
+- SOC / blue team operations — log analysis, SIEM tooling, incident detection and triage
+
+**Certification:** TryHackMe Certified SOC Level 1 Analyst (SAL1)
 
 - 🔓 **[Password Hack](https://github.com/andreeaiban/PasswordHackProject)** — ethical penetration testing project analyzing password vulnerabilities through simulated attacks
 - ⚙️ **[Operating Systems](https://github.com/andreeaiban/Operating_Systems)** — a deliberate race-condition demo: the same shared bank account implemented once unsynchronized (broken under concurrent load) and once fixed with `ReentrantLock`/`Condition`, plus a thread-safe producer-consumer queue
@@ -45,7 +58,19 @@ Here you'll find my security-focused work alongside the software engineering pro
 
 <div align="center">
 
-⌁
+⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆
+
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣎⠱⣲⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠤⠒⠒⠒⠒⠤⢄⣈⠈⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⢠⣢⠐⡄⠀⠉⠑⠒⠒⠒⣄
+⠀⠀⠀⣀⠴⠋⠀⠀⠀⡎⢀⣘⠿⠀⠀⢠⣀⢄⡦⠀⣛⣐⢸⠀⠀⠀⠀⠀⠀⢘
+⡠⠒⠉⠀⠀⠀⠀⠀⡰⢅⠣⠤⠘⠀⠀⠀⠀⠀⠀⢀⣀⣤⡋⠙⠢⢄⣀⣀⡠⠊
+⢇⠀⠀⠀⠀⠀⢀⠜⠁⠀⠉⡕⠒⠒⠒⠒⠒⠛⠉⠹⡄⣀⠘⡄⠀⠀⠀⠀⠀⠀
+⠀⠑⠂⠤⠔⠒⠁⠀⠀⡎⠱⡃⠀⠀⡄⠀⠄⠀⠀⠠⠟⠉⡷⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠤⠤⠴⣄⡸⠤⣄⠴⠤⠴⠄⠼⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
 
 <sub>STATUS: SECURE &nbsp;✦&nbsp; SYSTEM ONLINE</sub>
 
