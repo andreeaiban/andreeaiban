@@ -8,9 +8,9 @@
 
 ⌁
 
-Hi, I'm Cybersecurity Professional and this is my technical project portfolio.
+Hi, I'm Andreea, a Cybersecurity Professional — this is my technical project portfolio.
 
-Here you'll find my projects, experiments, and ongoing work as I continue exploring cybersecurity.
+Here you'll find my security-focused work alongside the software engineering projects behind it, since building secure systems takes both.
 
 ⌁
 
@@ -20,9 +20,35 @@ Here you'll find my projects, experiments, and ongoing work as I continue explor
 
 <div align="center">
 
-◈ &nbsp;&nbsp;Projects&nbsp;&nbsp; ◈ &nbsp;&nbsp; Labs &nbsp;&nbsp;◈ &nbsp;&nbsp; Research &nbsp;&nbsp;◈ &nbsp;&nbsp; Learning &nbsp;&nbsp;◈
+◈ &nbsp;&nbsp;<a href="#security-engineering">Security Engineering</a>&nbsp;&nbsp; ◈ &nbsp;&nbsp; <a href="#software-engineering">Software Engineering</a> &nbsp;&nbsp;◈
 
 </div>
+
+---
+
+<h2 id="security-engineering" align="center">Security Engineering</h2>
+
+- 🔓 **[Password Hack](https://github.com/andreeaiban/PasswordHackProject)** — ethical penetration testing project analyzing password vulnerabilities through simulated attacks
+- ⚙️ **[Operating Systems](https://github.com/andreeaiban/Operating_Systems)** — a deliberate race-condition demo: the same shared bank account implemented once unsynchronized (broken under concurrent load) and once fixed with `ReentrantLock`/`Condition`, plus a thread-safe producer-consumer queue
+- 🗄️ **[Database Systems](https://github.com/andreeaiban/database)** — role-based access control built from scratch (`CREATE ROLE` / `GRANT` / `REVOKE`), transaction isolation testing, and a backup-before-destroy recovery pattern
+
+---
+
+<h2 id="software-engineering" align="center">Software Engineering</h2>
+
+- 📊 **[Index Replication](https://github.com/andreeaiban/Index-Replication)** — NLP + ML portfolio optimizer built through BreakThrough Tech AI Studio in partnership with JPMorgan Chase; parses natural-language investment requests and clusters correlated stocks to replicate index performance
+- 🏦 **[B.A.N.K Store](https://github.com/andreeaiban/B.A.N.K-Store-Design-Patterns-)** — a 5-person team project implementing Singleton, Decorator, Observer, Factory, and Strategy design patterns, backed by real unit and component test coverage
+- 🧮 **[Analysis of Algorithms](https://github.com/andreeaiban/Analysis-of-Algorithms)** — empirical benchmarking (not just theory) of search, sort, string-matching, and graph algorithms, with measured runtime data and correctness verification
+- 🧱 **[Data Structures](https://github.com/andreeaiban/Data-Structures)** — stacks, queues, and a binary search tree built from raw nodes, applied in a dual-lookup (array + BST) banking application
+
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreeaiban/andreeaiban/main/7IjS.gif" width="500" alt="Animated footer">
+
+⌁
+
+<sub>STATUS: SECURE &nbsp;✦&nbsp; SYSTEM ONLINE</sub>
+
+<img src="https://raw.githubusercontent.com/andreeaiban/andreeaiban/main/7IjS.gif" width="500" alt="Animated footer">
+
 </div>
