@@ -6,7 +6,7 @@
 
 ### 
 
-⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆
+⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 
 
 Hi, I'm Andreea, a Cybersecurity Professional — this is my technical project portfolio ˃̵ᴗ˂̵
 
@@ -18,7 +18,7 @@ Here you'll find my security-focused work alongside the software engineering pro
 /    づ♡
 </pre>
 
-⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆
+⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚˚⋆｡☆⊹˚. ♡.𖥔 ݁ ˖ ˚ 𝜗𝜚
 
 </div>
 
